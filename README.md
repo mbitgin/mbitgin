@@ -1,37 +1,48 @@
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,docker,aws,git,linux,sqlite,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,aws,git,linux,sqlite,bash,vscode" />
 </p>
 
-# Hi there, I'm Mehmet Turgay Bitgin 👋
+<h1 align="center">Hi 👋, I'm Mehmet Turgay Bitgin</h1>
 
-## 👨‍💻 About Me
+<h3 align="center">
+Computer Engineering Student • Backend Developer • Cybersecurity Enthusiast • Cloud & AI
+</h3>
 
-I'm a Computer Engineering student passionate about building practical software solutions and continuously improving my technical skills.
-
-My primary interests include:
-
-- 🔐 Cybersecurity
-- ☁️ Cloud Computing
-- 🤖 Artificial Intelligence
-- 🐍 Python Development
-- ⚡ Backend Development
-- 🐳 Docker & DevOps
-
-I enjoy designing scalable systems, learning modern software architectures, and solving real-world engineering problems.
+<p align="center">
+Passionate about building scalable backend systems, cloud-native applications, and AI-powered software solutions.
+</p>
 
 ---
 
-## 🚀 Featured Project
+# 👨‍💻 About Me
 
-### CloudTrim
+I'm a Computer Engineering student with a strong interest in **Backend Development**, **Cybersecurity**, **Cloud Computing**, and **Artificial Intelligence**.
 
-CloudTrim is an AI-powered FinOps platform that detects idle AWS resources and provides intelligent cost optimization recommendations using FastAPI, OpenAI, and Docker.
+I enjoy designing clean, scalable software architectures and transforming real-world problems into practical solutions using modern technologies.
 
-🔗 https://github.com/mbitgin/aws-cost-analyzer
+Currently, I'm expanding my expertise in **AWS**, **Docker**, **FastAPI**, and **Machine Learning** while continuously improving my software engineering skills through personal projects and hands-on experience.
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 Featured Project
+
+## ☁️ CloudTrim
+
+**CloudTrim** is an AI-powered FinOps platform that detects idle AWS resources and delivers intelligent cloud cost optimization recommendations using FastAPI, OpenAI, Docker, and Hexagonal Architecture.
+
+### Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker,aws,sqlite" />
+</p>
+
+🔗 **Repository**
+
+https://github.com/mbitgin/aws-cost-analyzer
+
+---
+
+# 🛠 Tech Stack
 
 ### Languages
 
@@ -42,7 +53,7 @@ CloudTrim is an AI-powered FinOps platform that detects idle AWS resources and p
 ### Backend
 
 - FastAPI
-- REST API
+- REST APIs
 
 ### Cloud
 
@@ -64,45 +75,69 @@ CloudTrim is an AI-powered FinOps platform that detects idle AWS resources and p
 - SQLite
 - SQLAlchemy
 
-### AI
+### Artificial Intelligence
 
 - OpenAI API
 - Computer Vision
 
-### Security
+### Cybersecurity
 
 - Wireshark
 - Nmap
-- Networking
+- Network Analysis
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 - Advanced AWS
 - Kubernetes
-- Machine Learning
 - Cloud Security
-- Microservices
+- Machine Learning
+- Microservices Architecture
 
 ---
 
-## 📫 Contact
+# 🎯 2026 Goals
 
-📧 bitginmehmetturgay@gmail.com
+- Build production-ready cloud applications
+- Contribute to open-source projects
+- Deepen my AWS expertise
+- Learn Kubernetes
+- Expand my cybersecurity knowledge
+- Develop AI-powered software products
 
-💼 LinkedIn
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mbitgin&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbitgin&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbitgin&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email**
+
+**bitginmehmetturgay@gmail.com**
+
+💼 **LinkedIn**
 
 https://www.linkedin.com/in/mehmet-turgay-bitgin
 
+💻 **GitHub**
+
+https://github.com/mbitgin
+
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=mbitgin&show_icons=true&theme=github_dark)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=mbitgin&theme=github-dark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mbitgin&layout=compact&theme=github_dark)
-
-![](https://komarev.com/ghpvc/?username=mbitgin&label=Profile%20Views&color=0e75b6&style=flat)
+<p align="center">
+<i>"Continuous learning is the key to building impactful technology."</i>
+</p>
